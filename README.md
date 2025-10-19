@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Valeriia Khramchenkova  
-**AI Career Architect** — building human×AI work systems.  
-Creator of [ProfPilot](https://github.com/ValeriiaKhramchenkova/ProfPilot) — a simulator where people can test-drive careers with AI.
+**AI career architect** — building human×AI work systems.  
+Creator of [ProfPilot](https://github.com/Leravalerun/profpiloteng) — a simulator where people can test-drive careers with AI.
 
 🧩 Exploring the future of work through:
 - Human-in-the-loop design  
